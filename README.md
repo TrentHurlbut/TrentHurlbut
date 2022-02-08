@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrentHurlbut
 - 👀 I’m interested in perfect pancakes, chin wagging, Liverpool FC, and hagning in there.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, django, Java, R
-- 💞️ I’m looking to collaborate on just about anything. Happy to be a code grunt.
+- 🌱 I’m currently learning TypeScript/JavaScript, React, Vue, Python, Django, Java, R
+- 💞️ I’m looking for my next amazing problem to solve.
 - 📫 How to reach me trent.hurlbut@gmail.com, https://www.linkedin.com/in/trent-hurlbut/
 
 <!---
